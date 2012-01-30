@@ -1,0 +1,5 @@
+Initial kit for play with webRTC easy.
+
+You only need two PC with Google Chrome Canary and one of them running peerconnection_server (now only tested in MACOs 10.7)
+Open from apache server the webrtc_test.html and get fun.
+	
